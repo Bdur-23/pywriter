@@ -6,3 +6,5 @@ pywriter is a simple version working on the idle
 pywriter_gui is tkinter app, easier to use
 
 pip install keyboard
+
+pip install pyautogui
